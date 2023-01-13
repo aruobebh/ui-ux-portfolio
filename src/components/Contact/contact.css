@@ -1,0 +1,79 @@
+
+
+.app__contact-container {
+    background-color: #2f2f8a;
+    padding: 4rem;
+    color: white;
+    font-family: var(--font);
+    display: flex;
+    border: 1px solid var(--gradientbg);
+    border-radius: 3rem;
+}
+
+.app__contact-container div {
+    width: 100%;
+    height: auto;
+}
+
+.app__contact-container div h3 {
+    text-align: start;
+    margin-bottom: 1.5rem;
+    font-size: 25px;
+}
+
+.app__contact-container div p {
+    width: 350px;
+    text-align: start;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+form label {
+    display: flex;
+    flex-direction: column;
+}
+
+form input {
+    border: none;
+    width: inherit;
+    padding: .8rem;
+    border-radius: 9px;
+    background-color: rgba(0, 0, 0, 0.30);
+}
+
+textarea {
+    width: inherit;
+    height: 150px;
+    padding: .8rem;
+    border: none;
+    border-radius: 9px;
+    background-color: rgba(0, 0, 0, 0.30);
+}
+
+button {
+    border: none;
+    border-radius: .7rem;
+    padding: 12px 40px;
+    background: var(--gradientbg);
+    color: white;
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 820px) {
+    .app__contact-container {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .app__contact-container div p {
+        width: inherit;
+        font-size: 16px;
+        line-height: 28px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .app__contact-container {
+        padding: 2rem;
+    }
+}
