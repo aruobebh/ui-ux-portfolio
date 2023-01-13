@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ui-ux-portfolio/static/css/main.ca82d567.css",
+    "main.js": "/ui-ux-portfolio/static/js/main.d963311c.js",
+    "static/media/Illustration2.png": "/ui-ux-portfolio/static/media/Illustration2.e44cfb8a057dd2885f60.png",
+    "static/media/Illustration top.png": "/ui-ux-portfolio/static/media/Illustration top.ad6cccaa4b52317e57df.png",
+    "static/media/UI Design.png": "/ui-ux-portfolio/static/media/UI Design.6b338573e6d5f3349ebf.png",
+    "static/media/Illustration.png": "/ui-ux-portfolio/static/media/Illustration.b08c6ce2489d174adf7d.png",
+    "static/media/Mockups.png": "/ui-ux-portfolio/static/media/Mockups.9e49a9d7cd447197c4a7.png",
+    "static/media/Designs.png": "/ui-ux-portfolio/static/media/Designs.797101eba41928631b90.png",
+    "static/media/Illustration footer.png": "/ui-ux-portfolio/static/media/Illustration footer.47bec04e961efbab8056.png",
+    "static/media/confident.png": "/ui-ux-portfolio/static/media/confident.a9283243862452c1177c.png",
+    "index.html": "/ui-ux-portfolio/index.html",
+    "main.ca82d567.css.map": "/ui-ux-portfolio/static/css/main.ca82d567.css.map",
+    "main.d963311c.js.map": "/ui-ux-portfolio/static/js/main.d963311c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca82d567.css",
+    "static/js/main.d963311c.js"
+  ]
+}
